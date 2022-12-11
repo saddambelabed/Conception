@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-10T12:51:41.166Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="BMZg2S8Ipmbz3NUgdtzj" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-11T07:12:32.285Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="FfZvOhQWE1Z1YIXAwvmB" version="20.6.2" type="github">
   <diagram id="ZNvVrSMgyMVdcRd-ooHD" name="Page-1">
-    <mxGraphModel dx="2249" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -191,7 +191,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OuGAm14hv35gPDsJIMZN-137" value="Prévision Quantité" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="590" y="390" width="148" height="210" as="geometry" />
+          <mxGeometry x="597" y="350" width="148" height="210" as="geometry" />
         </mxCell>
         <mxCell id="OuGAm14hv35gPDsJIMZN-138" value="ID" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="OuGAm14hv35gPDsJIMZN-137" vertex="1">
           <mxGeometry x="18" y="23" width="40" height="30" as="geometry" />
@@ -202,10 +202,10 @@
         <mxCell id="OuGAm14hv35gPDsJIMZN-140" value="Année" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="OuGAm14hv35gPDsJIMZN-137" vertex="1">
           <mxGeometry x="18" y="40" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CfSOd8HpHiStHLGowDb6-11" value="Abandon" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="OuGAm14hv35gPDsJIMZN-137" vertex="1">
-          <mxGeometry x="10" y="103" width="70" height="30" as="geometry" />
+        <mxCell id="CfSOd8HpHiStHLGowDb6-11" value="&lt;span style=&quot;text-align: left;&quot;&gt;Quantité déjà&amp;nbsp;facturée&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="OuGAm14hv35gPDsJIMZN-137" vertex="1">
+          <mxGeometry x="7" y="103" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OuGAm14hv35gPDsJIMZN-141" value="Quantité facturée" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="OuGAm14hv35gPDsJIMZN-137" vertex="1">
+        <mxCell id="OuGAm14hv35gPDsJIMZN-141" value="Quantité à facturer" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="OuGAm14hv35gPDsJIMZN-137" vertex="1">
           <mxGeometry x="18" y="80" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nu05ar9Bs-SGqDgzsehX-2" value="Prévision Charge d&#39;exploitation" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="1" vertex="1">
