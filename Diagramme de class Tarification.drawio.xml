@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-12T10:18:02.307Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="4FNPjTmYONmgtVlpmX0q" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-12T10:24:22.502Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="q89tqTdud8aVrsMkWWFV" version="20.6.2" type="github">
   <diagram id="ZNvVrSMgyMVdcRd-ooHD" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="2416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -211,7 +211,7 @@
           <mxGeometry x="18" y="96" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nu05ar9Bs-SGqDgzsehX-2" value="FIN: Prévision Charge d&#39;exploitation" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="1" vertex="1">
-          <mxGeometry x="920" y="25" width="320" height="500" as="geometry" />
+          <mxGeometry x="870" y="-20" width="320" height="500" as="geometry" />
         </mxCell>
         <mxCell id="nu05ar9Bs-SGqDgzsehX-3" value="ID" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="nu05ar9Bs-SGqDgzsehX-2" vertex="1">
           <mxGeometry x="20" y="43" width="40" height="30" as="geometry" />
@@ -249,8 +249,17 @@
         <mxCell id="nu05ar9Bs-SGqDgzsehX-28" value="Provision d&#39;Abandon et de remise en état des sites" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="nu05ar9Bs-SGqDgzsehX-2" vertex="1">
           <mxGeometry x="10" y="373" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CfSOd8HpHiStHLGowDb6-10" value="Auto-consommation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="nu05ar9Bs-SGqDgzsehX-2" vertex="1">
-          <mxGeometry x="10" y="403" width="130" height="30" as="geometry" />
+        <mxCell id="CfSOd8HpHiStHLGowDb6-10" value="VO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="nu05ar9Bs-SGqDgzsehX-2" vertex="1">
+          <mxGeometry x="10" y="403" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_blff35QQ9s15C72KIin-18" value="INC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="nu05ar9Bs-SGqDgzsehX-2">
+          <mxGeometry x="13" y="440" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_blff35QQ9s15C72KIin-19" value="INP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="nu05ar9Bs-SGqDgzsehX-2">
+          <mxGeometry x="18" y="463" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_blff35QQ9s15C72KIin-20" value="CA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="nu05ar9Bs-SGqDgzsehX-2">
+          <mxGeometry x="10" y="420" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_blff35QQ9s15C72KIin-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="_blff35QQ9s15C72KIin-6" target="OuGAm14hv35gPDsJIMZN-44">
           <mxGeometry relative="1" as="geometry">
