@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-17T07:08:12.724Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Q0bIOJ49tUSjJYow2Wcl" version="20.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-21T09:05:38.691Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="5FCs3jG77BleO137iykk" version="20.7.4" type="github">
   <diagram id="ZNvVrSMgyMVdcRd-ooHD" name="Page-1">
     <mxGraphModel dx="2603" dy="2418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -468,6 +468,42 @@
         <mxCell id="5XJaLAdu7I4UYVRWvM00-21" value="composé de" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="5XJaLAdu7I4UYVRWvM00-18" vertex="1" connectable="0">
           <mxGeometry x="-0.109" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="32njktbwxrcDVtmM5y2o-1" value="Projet reclassé" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="110" y="-310" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="32njktbwxrcDVtmM5y2o-2" value="Intitulé du projet" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="32njktbwxrcDVtmM5y2o-1">
+          <mxGeometry x="24" y="50" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="32njktbwxrcDVtmM5y2o-3" value="ID" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="32njktbwxrcDVtmM5y2o-1">
+          <mxGeometry x="26" y="30" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="32njktbwxrcDVtmM5y2o-4" value="Montant reclassé (DZD)" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="32njktbwxrcDVtmM5y2o-1">
+          <mxGeometry x="26" y="70" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="32njktbwxrcDVtmM5y2o-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.943;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="202.01000000000022" y="-190" as="targetPoint" />
+            <mxPoint x="380" y="40" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="202" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="32njktbwxrcDVtmM5y2o-10" value="possède" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="32njktbwxrcDVtmM5y2o-9">
+          <mxGeometry x="-0.0951" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="32njktbwxrcDVtmM5y2o-11" value="0.n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="32njktbwxrcDVtmM5y2o-9">
+          <mxGeometry x="0.8098" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="32njktbwxrcDVtmM5y2o-12" value="1.1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="32njktbwxrcDVtmM5y2o-9">
+          <mxGeometry x="-0.7639" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
