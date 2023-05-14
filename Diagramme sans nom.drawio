@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-13T17:03:25.175Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="wWBoP9JloPJrBXxxRAJ5" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-14T06:57:38.246Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="czuuXs0Aav1GkcMw1boA" version="21.1.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2284" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -22,8 +22,7 @@
             <mxPoint x="205" y="530" as="targetPoint" />
             <Array as="points">
               <mxPoint x="178" y="500" />
-              <mxPoint x="178" y="530" />
-              <mxPoint x="200" y="530" />
+              <mxPoint x="178" y="520" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -111,7 +110,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-120" y="940" />
-              <mxPoint x="365" y="940" />
+              <mxPoint x="340" y="940" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -173,8 +172,7 @@
         <mxCell id="0C7BvCh4BsSfob4eViEc-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.324;exitY=0.017;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;endArrow=none;endFill=0;exitPerimeter=0;" edge="1" parent="1" source="0C7BvCh4BsSfob4eViEc-34" target="0C7BvCh4BsSfob4eViEc-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="715" y="1190" />
-              <mxPoint x="665" y="1190" />
+              <mxPoint x="665" y="1272" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -184,7 +182,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0C7BvCh4BsSfob4eViEc-34" value="Standards Contractuelle" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="1240" width="170" height="120" as="geometry" />
+          <mxGeometry x="575" y="1270" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="0C7BvCh4BsSfob4eViEc-35" value="MIX&lt;br&gt;MIN" style="shape=associativeEntity;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="640" y="590" width="150" height="70" as="geometry" />
